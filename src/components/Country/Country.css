@@ -1,0 +1,24 @@
+.countryBox {
+  padding: 10px;
+  margin: 10px;
+}
+
+.CountryContainer{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.marcador{
+  width: 25px;
+  height: 25px;
+  border: 1px solid black;
+  box-shadow: 0 2px 2px #ccc;
+  padding: 16px;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.nombreEquipo{
+  color: #FFFFFF;
+}
